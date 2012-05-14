@@ -19,8 +19,8 @@ Alternative amber js jquery integration.
 ```
 '<div />' asJQuery 
 	css: 'backgroundColor' color: 'yellow';
-	css: 'color': color: 'red';
-	css: 'fontSize': percentage: '300%'; 
+	css: 'color' color: 'red';
+	css: 'fontSize' percentage: '300%'; 
 	text: 'cats';
 	appendTo: 'body';
 	click: [window alert: 'ouch'].
